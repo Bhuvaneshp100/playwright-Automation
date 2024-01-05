@@ -3,6 +3,7 @@ const exp = require("constants");
 class wishlistpage{
     constructor (page){
         this.page =page;
+        //some comment
     }
    async  wishlisttest(){
 
